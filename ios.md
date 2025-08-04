@@ -11,9 +11,9 @@ Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" tar
 
 ![](https://file.uhsea.com/2508/19da616ee0f49c8b063e2bad18bfc86dRP.png)
 
-## 第二步 获取 Shadowsocks 账号信息
+## 第二步 获取 Shadowsocks 服务节点
 
-一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码）
+一个可用的 Shadowsocks 服务节点，俗称机场。
 
 详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
