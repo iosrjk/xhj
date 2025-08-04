@@ -1,92 +1,115 @@
-<html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>使用 Shadowsocks添加订阅教程</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="使用 Shadowsocks添加订阅教程" />
-<meta property="og:locale" content="zh-CN" />
-<meta name="description" content="Shadowsocks 终极使用指南" />
-<meta property="og:description" content="Shadowsocks 终极使用指南" />
-<link rel="canonical" href="https://shadowsockshelp.github.io/Shadowsocks/Android.html" />
-<meta property="og:url" content="https://shadowsockshelp.github.io/Shadowsocks/Android.html" />
-<meta property="og:site_name" content="Shadowsocks" />
-<script type="application/ld+json">
-{"headline":"安卓 Android 使用 Shadowsocks 设置教程","@type":"WebPage","url":"https://shadowsockshelp.github.io/Shadowsocks/Android.html","description":"Shadowsocks 终极使用指南","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/xhj/assets/css/style.css">
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://shadowsockshelp.github.io/Shadowsocks/">Shadowsocks</a></h1>
-      
-
-      <h1 id="使用 Shadowsocks添加订阅教程">使用 Shadowsocks添加订阅教程</h1>
-
-<h2 id="第一步-下载-shadowsocks-客户端">第一步 下载 Shadowsocks 客户端</h2>
-
-<table>
-  <tbody>
-    <tr>
       <td>下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" target="_blank">Shadowsocks 盗版软件较多，认准名字Shadowrocket</a>】</td>
       <td>【 <a href="https://idshare001.me/goso.html" target="_blank">共享id</a> 】</td>
       <td>【 <a href="https://pic.rmb.bdstatic.com/bjh/240209/102565340e5551ea9dff1eddc7a6e17e1186.jpeg" target="_blank">>共享id使用教程-不懂必看</a>】</td>
-    </tr>
-  </tbody>
-</table>
+      # 苹果 iOS 使用 Shadowsocks 设置教程
 
-<p>注意：此软件中国区已下架，且需要付费购买，没有建议使用共享id登录下载。</p>
+## 第一步 下载手机客户端
 
-<h2 id="第二步-获取-shadowsocks-账号信息">第二步 获取 Shadowsocks 账号信息</h2>
+1、登陆苹果非大陆区账号单独购买下载，以下是苹果商店链接（需非大陆苹果账号，选择任意一个下载即可）。
 
-<p>详见：<a href="/Shadowsocks/ss.html">SS/ShadowsocksR 服务器节点 点击获取</a></p>
+苹果美区商店 App Store下载：【[推荐 Shadowrocket小火箭 - App Store](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) 】 | 【 [Potatso Lite代理工具 - App Store](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)】
 
-<h2 id="第三步-配置-shadowsocks-客户端">第三步 配置 Shadowsocks 客户端</h2>
+2、代理软件在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位（选择任意一个在线安装即可）。
 
-<p>有多种配置节点信息的方法，可以根据你的习惯和需要选择</p>
+苹果手机游览器打开 在线安装：【 [Shadowrocket小火箭在线安装]( https://shadowsockshelp.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsockshelp.github.io/Potatso-Lite/) 】
 
-<p><img src="/Shadowsocks/img/android1.png" alt="" /></p>
+3、苹果美区账号分享 详见： [APPLE ID 免费账号共享](appleid.md)
 
-<h3 id="推荐扫二维码配置">推荐，扫二维码配置</h3>
+## 第二步 获取 Shadowsocks 账号信息
 
-<p>1、首先网页上打开节点的【二维码】图片</p>
+一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码）
 
-<p>2、然后打开软件左上角/右下角的“+”，选择“扫描屏幕上的二维码”</p>
+详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
-<p>3、程序自动识别二维码并导入服务器节点信息</p>
+## 第三步 iOS配置 Shadowsocks 客户端
 
-<p>4、最后点击 【小飞机】 的标志 即可连接上网了</p>
+### 一、Shadowrocket 小火箭 设置教程
 
-<h3 id="若出现提示您的设备不支持google-play服务-因此无法运行shadowsocks">若出现提示：您的设备不支持Google Play服务 因此无法运行Shadowsocks</h3>
+***添加 Shadowsocks 账户***
 
-<p>1、在添加节点过程中出现如下提示，请下载安装Google Play服务框架、Google Play 服务、Google Play 谷歌三件套。</p>
+Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来也是极其方便。点击左上角的方框即可扫描 Shadowsocks 账户服务器节点的二维码，免去输入的麻烦。
 
-<p><img src="/Shadowsocks/img/android2.png" alt="" /></p>
+![](/img/Shadowrocket1.png)
 
-<p>2、若是下载谷歌三件套后仍然无法使用，部分手机自带的商城里下载【谷歌安装器】后可正常使用。</p>
+第一次连接时会弹出一个添加代理的提示框，点“Allow”允许，否则不能用。如果你有多个节点，连接后是使用前面有圆点的节点，点击节点即选中作为默认，选中的节点使用中无法删除。
 
-<p><img src="/Shadowsocks/img/android3.png" alt="" /></p>
+![](/img/Shadowrocket2.png)
 
-<p>3、若仍不能使用，可以尝试ROOT你的手机，请 www.baidu.com 或者 www.google.com</p>
+或者你也可以点击右上角的加号进行手动输入
 
-<p>注：搜索关键字：<a href="https://www.baidu.com/s?ie=UTF-8&amp;wd=%E6%82%A8%E7%9A%84%E8%AE%BE%E5%A4%87%E4%B8%8D%E6%94%AF%E6%8C%81Google%20Play%E6%9C%8D%E5%8A%A1%20%E5%9B%A0%E6%AD%A4%E6%97%A0%E6%B3%95%E8%BF%90%E8%A1%8C">您的设备不支持Google Play服务 因此无法运行</a></p>
+![](/img/Shadowrocket3.png)
 
-<h2 id="其他说明">其他说明</h2>
+![](/img/Shadowrocket7.png)
 
-<p>在您信息配置完成后，我们推荐在功能设置中设置「绕过局域网及中国大陆模式」，该模式可以实现自动代理，其他选项不要启用，就可打开游览器访问 www.google.com 网站进行测试。</p>
+***规则的设置***
 
-<h3 id="返回首页"><a href="https://shadowsockshelp.github.io/Shadowsocks/">« 返回首页</a></h3>
+一般全局路由选择默认配置即可，如果要实现部分网站国内走直连，国外走代理的话，就需要用到规则。
 
+点击 Settings，然后在点击 Config 你就可以看到以下界面
 
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
-</html>
+![](/img/Shadowrocket4.png)
+
+点击 + 通过添加链接，在点击 Use Config 来下载规则文件。你可以对其进行编辑，以满足自己的使用习惯。点击感叹号，然后在点击 Add Rule，点击 Type，就可以看到多种过滤方式进行设置了。
+
+***节点订阅设置***
+
+打开Shadowrocket，点击右上角加号 + ，在添加节点页面，将类型改为第三个 Subscribe，复制订阅地址粘贴到URL中，然后点击右上角完成即可。
+
+![](/img/Shadowrocket5.jpg)
+
+在Shadowrocket设置--服务器订阅中打开【打开时更新】选项。
+
+![](/img/Shadowrocket6.png)
+
+回到首页，打开连接开关，享受科学上网吧！
+
+<hr>
+
+### 二、Potatso Lite 代理工具 设置教程
+
+从 App Store 安装后打开 Potatso Lite。点击 "立即使用" > "现在添加"。
+
+![](/img/PotatsoLite1.PNG)
+
+***扫码配置***
+
+点击 "二维码" > "Potatso Lite 想访问您的相机"的窗口，选择 "好" > 扫描你节点的二维码，节点将自动添加成功。
+
+***手动配置***
+
+1、点击 "添加" > 填写代理。
+
+2、选择 "Shadowsocks“ > 填写 "服务器" > 填写 "端口" > 选择 "加密" > 填写 "密码" 。
+
+3、填写 "备注" 为可选项 > 点击右上角的 "✔"， 设置完成。
+
+![](/img/PotatsoLite2.PNG)
+
+***开始代理***
+
+1、点击 "开始" > 选择 "Allow" > 开启 "智能路由"。
+
+2、当看到左上角出现 VPN 字样时，代表连接成功。
+
+3、智能路由 表示可以实现自动代理， 及本来可以访问的网站不会经过代理，推荐日常使用。
+
+![](/img/PotatsoLite3.PNG)
+
+## 最后 若无法打开网页，可以进行如下测试
+
+1、可以尝试小火箭软件最下面一排按钮，选择-配置 页面，点击 恢复默认配置。
+
+2、更换手机4G网络进行尝试、重启路由器更改IP。
+
+3、下载其他代理软件尝试， 推荐 如 Potatso Lite ,请使用 美区账号登陆App Store 搜索下载安装。
+
+## 需要再次说明的是
+
+1、由于 shadowrocket 等软件 不在部分国家如中国等商店上架，因此需要使用美国/香港等appstore账号才可下载。
+
+2、苹果美区账号分享 详见： [APPLE ID 免费账号共享](appleid.md)。
+
+3、使用共享账号登录，切记请勿登录iCloud。
+
+### [<< 返回首页](README.md)
