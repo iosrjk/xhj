@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8">
@@ -27,7 +26,7 @@
       <h1><a href="https://shadowsockshelp.github.io/Shadowsocks/">Shadowsocks</a></h1>
       
 
-      <h1 id="安卓-android-使用-shadowsocks-设置教程">安卓 Android 使用 Shadowsocks 设置教程</h1>
+      <h1 id="使用 Shadowsocks添加订阅教程">使用 Shadowsocks添加订阅教程</h1>
 
 <h2 id="第一步-下载-shadowsocks-客户端">第一步 下载 Shadowsocks 客户端</h2>
 
