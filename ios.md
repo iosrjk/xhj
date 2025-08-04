@@ -33,7 +33,7 @@
 <table>
   <tbody>
     <tr>
-      <td>下载：【 推荐 <a href="https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.1/shadowsocks-x86-4.8.1.apk">Shadowsocks-APK文件点击下载直接安装</a>】</td>
+      <td>下载：【 推荐 <a href="https://apps.apple.com/us/app/shadowrocket">Shadowsocks-盗版软件较多，认准名字Shadowrocket</a>】</td>
       <td>【 <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks">Google play 商店-需代理访问</a> 】</td>
       <td>【 <a href="https://github.com/shadowsocks/shadowsocks-android/releases">历史版本</a>】</td>
     </tr>
