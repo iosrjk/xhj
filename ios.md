@@ -5,9 +5,9 @@
 
 1、登陆苹果非大陆区账号单独购买下载，以下是苹果商店链接（需非大陆苹果账号，选择任意一个下载即可）。
 
-Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" target="_blank">盗版软件较多，认准名字Shadowrocket</a>】|【 <a href="https://idshare001.me/goso.html" target="_blank">免费共享id</a> 】|【 <a href="https://pic.rmb.bdstatic.com/bjh/240209/102565340e5551ea9dff1eddc7a6e17e1186.jpeg" target="_blank">共享id使用教程-不懂必看</a>】
+Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" target="_blank">盗版软件较多，认准名字Shadowrocket</a>】|【 <a href="https://iosrjk.github.io/xhj/appleid" target="_blank">APPLE ID 免费账号共享</a> 】
 
-2、手机设置的ID必须登录自己的，切记！如果你设置里没有登录自己的账号，在商店登录共享ID，会同步到你手机设置里，可能会被人恶意锁机诈骗。
+<p style="color: red; font-weight: bold;">2、手机设置的ID必须登录自己的，切记！如果你设置里没有登录自己的账号，在商店登录共享ID，会同步到你手机设置里，可能会被人恶意锁机诈骗。</p>
 
 ![](https://file.uhsea.com/2508/19da616ee0f49c8b063e2bad18bfc86dRP.png)
 
@@ -85,13 +85,12 @@ Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" tar
 
 2、更换手机4G网络进行尝试、重启路由器更改IP。
 
-3、下载其他代理软件尝试， 推荐 如 Potatso Lite ,请使用 美区账号登陆App Store 搜索下载安装。
 
 ## 需要再次说明的是
 
 1、由于 shadowrocket 等软件 不在部分国家如中国等商店上架，因此需要使用美国/香港等appstore账号才可下载。
 
-2、苹果美区账号分享 详见： [APPLE ID 免费账号共享](appleid.md)。
+2、苹果美区账号分享 详见： [APPLE ID 免费账号共享](https://iosrjk.github.io/xhj/appleid)。
 
 3、使用共享账号登录，切记请勿登录iCloud。
 
