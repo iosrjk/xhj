@@ -33,9 +33,9 @@
 <table>
   <tbody>
     <tr>
-      <td>下载：【 <a href="https://apps.apple.com/us/app/shadowrocket">Shadowsocks 盗版软件较多，认准名字Shadowrocket</a>】</td>
-      <td>【 <a href="https://idshare001.me/goso.html">共享id</a> 】</td>
-      <td>【 <a href="https://pic.rmb.bdstatic.com/bjh/240209/102565340e5551ea9dff1eddc7a6e17e1186.jpeg">共享id使用教程-不懂必看</a>】</td>
+      <td>下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" target="_blank">Shadowsocks 盗版软件较多，认准名字Shadowrocket</a>】</td>
+      <td>【 <a href="https://idshare001.me/goso.html" target="_blank">共享id</a> 】</td>
+      <td>【 <a href="https://pic.rmb.bdstatic.com/bjh/240209/102565340e5551ea9dff1eddc7a6e17e1186.jpeg" target="_blank">>共享id使用教程-不懂必看</a>】</td>
     </tr>
   </tbody>
 </table>
