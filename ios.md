@@ -19,23 +19,27 @@ Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" tar
 
 ## 第三步 iOS配置 Shadowsocks 客户端
 
-### 一、Shadowrocket 小火箭 设置教程
+### 一、Shadowrocket 小火箭 一键订阅教程
 
-***添加 Shadowsocks 账户***
+1.使用Safari浏览器登录你购买订阅的网站【没有订阅就去买】进入个人中心，在仪表盘页面或我的订阅页面找到一键订阅按钮，点击并选择导入到Shadowrocket选项。点击后iOS系统会跳转到Shadowrocket客户端内并自动将节点订阅信息填好。
 
-Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来也是极其方便。点击左上角的方框即可扫描 Shadowsocks 账户服务器节点的二维码，免去输入的麻烦。
+![](https://pic.ybfl.xyz/i/2023/02/22/10zhy4x-0.png)
 
-![](/img/Shadowrocket1.png)
+2.在客户端首页可以看到一键订阅生成的所有节点及相关信息。
 
-第一次连接时会弹出一个添加代理的提示框，点“Allow”允许，否则不能用。如果你有多个节点，连接后是使用前面有圆点的节点，点击节点即选中作为默认，选中的节点使用中无法删除。
+![](https://pic.ybfl.xyz/i/2023/02/22/11140tl-0.png)
 
-![](/img/Shadowrocket2.png)
+3.进入配置选项页，建议使用默认配置文件即可。
 
-或者你也可以点击右上角的加号进行手动输入
+![](https://pic.ybfl.xyz/i/2023/02/22/10zi0t8-0.png)
 
-![](/img/Shadowrocket3.png)
+4.进入设置选项页，按照下图将订阅设置项的“打开时更新”和“自动后台更新”选项同时开启。
 
-![](/img/Shadowrocket7.png)
+![](https://pic.ybfl.xyz/i/2023/02/22/10zhv4u-0.png)
+
+5.回到首页点击上方全局路由可以更改代理模式，其中：“配置”为配置文件代理（即按照规则自动分流），“代理”为全局代理（即所有连接均通过代理），“直连”为绕过代理（即所有连接均不通过代理），“场景”适用于不同网络环境下自动切换代理模式。
+
+![](https://pic.ybfl.xyz/i/2023/02/22/11140tl-0.png)
 
 ***规则的设置***
 
