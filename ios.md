@@ -7,11 +7,9 @@
 
 Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" target="_blank">盗版软件较多，认准名字Shadowrocket</a>】|【 <a href="https://idshare001.me/goso.html" target="_blank">免费共享id</a> 】|【 <a href="https://pic.rmb.bdstatic.com/bjh/240209/102565340e5551ea9dff1eddc7a6e17e1186.jpeg" target="_blank">共享id使用教程-不懂必看</a>】
 
-2、代理软件在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位（选择任意一个在线安装即可）。
+2、手机设置的ID必须登录自己的，切记！如果你设置里没有登录自己的账号，在商店登录共享ID，会同步到你手机设置里，可能会被人恶意锁机诈骗。
 
-苹果手机游览器打开 在线安装：【 [Shadowrocket小火箭在线安装]( https://shadowsockshelp.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsockshelp.github.io/Potatso-Lite/) 】
-
-3、苹果美区账号分享 详见： [APPLE ID 免费账号共享](appleid.md)
+<img class="step-image" src="https://file.uhsea.com/2508/19da616ee0f49c8b063e2bad18bfc86dRP.png">
 
 ## 第二步 获取 Shadowsocks 账号信息
 
