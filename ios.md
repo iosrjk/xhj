@@ -9,7 +9,7 @@ Shadowsocks下载：【 <a href="https://apps.apple.com/us/app/shadowrocket" tar
 
 2、手机设置的ID必须登录自己的，切记！如果你设置里没有登录自己的账号，在商店登录共享ID，会同步到你手机设置里，可能会被人恶意锁机诈骗。
 
-<img class="step-image" src="https://file.uhsea.com/2508/19da616ee0f49c8b063e2bad18bfc86dRP.png">
+![](https://file.uhsea.com/2508/19da616ee0f49c8b063e2bad18bfc86dRP.png)
 
 ## 第二步 获取 Shadowsocks 账号信息
 
