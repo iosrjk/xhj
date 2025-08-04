@@ -4,13 +4,19 @@
 
 ## 苹果美区账号 APPLE ID 免费账号共享 [获取共享id](https://idshare001.me/goso.html)
 
-####  【账号】:  [点击这里获取账号](https://appledi.github.io/) 
+####  【果书免费共享】:  [点击这里获取共享id](https://idshare001.me/goso.html) 
 
-####  【密码】:  [点击这里获取密码](https://appledi.github.io/)
+####  【小火箭共享】:  [点击这里获取共享id](https://id.bocchi.vip/)
 
-避免跟丢我们，密码及账号可能会更新，建议收藏本地址: [https://appledi.github.io/](https://appledi.github.io/)
+####  【CC宝盒免费共享】:  [点击这里获取共享id](https://ccbaohe.com/appleID/) 
 
-注：切记请勿登录iCloud，千万不要在 iCloud 登陆，手机被锁我们也无能为力！若此APPLE ID账号被锁，登录后请选择邮件解锁，我们都会及时的解锁。
+####  【小优免费共享】:  [点击这里获取共享id](https://idfree.top/) 
+
+避免跟丢我们，密码及账号可能会更新，建议收藏本地址: [https://iosrjk.github.io/xhj/](https://iosrjk.github.io/xhj/)
+
+
+<p style="color: red; font-weight: bold;">注：切记请勿登录iCloud，千万不要在 iCloud 登陆，手机被锁我们也无能为力！若此APPLE ID账号被锁，登录后请选择邮件解锁，我们都会及时的解锁。</p>
+
 
 <hr>
 
