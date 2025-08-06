@@ -2,7 +2,7 @@
 
 ## 第一步 下载 Shadowsocks 客户端
 
-下载：【 推荐 [Shadowsocks-APK文件点击下载直接安装](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.1/shadowsocks-x86-4.8.1.apk)】|【 [Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://github.com/shadowsocks/shadowsocks-android/releases)】
+下载：【 推荐 [Shadowsocks-v5.2.0文件点击下载直接安装](https://tntfiles.com/download/03e142469929d126f088e79a178f479e20a3b815eed6d63e4fcc4905dda4ddbe/shadowsocks--universal-5.2.0.apk?1754464175.0346)】|【 [Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://pan.quark.cn/s/f8fbbef29892)】
 
 注意：此软件可能带广告，下载后左滑删去即可
 
@@ -14,7 +14,7 @@
 
 有多种配置节点信息的方法，可以根据你的习惯和需要选择
 
-![](/img/android1.png)
+![](https://i.postimg.cc/Y4B9FMDX/android1.png)
 
 ### 推荐，扫二维码配置
 
@@ -30,12 +30,12 @@
 
 1、在添加节点过程中出现如下提示，请下载安装Google Play服务框架、Google Play 服务、Google Play 谷歌三件套。
 
-![](/img/android2.png)
+![](https://i.postimg.cc/kVN5Fzk7/android2.png)
 
 
 2、若是下载谷歌三件套后仍然无法使用，部分手机自带的商城里下载【谷歌安装器】后可正常使用。
 
-![](/img/android3.png)
+![](https://i.postimg.cc/njHhdTJB/android3.png)
 
 3、若仍不能使用，可以尝试ROOT你的手机，请 www.baidu.com 或者 www.google.com 
 
