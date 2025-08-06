@@ -1,1 +1,35 @@
-# xhj
+# 科学上网 使用指南
+
+## 1 代理工具 如何使用？
+
+[1] 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md)  → 3 设置启用即可
+
+[2] 客户端下载：<a href="https://iosrjk.github.io/xhj/Windows" target="_blank">微软Windows</a> | 
+<a href="https://iosrjk.github.io/xhj/ios" target="_blank">苹果iPhone/ipad</a> | 
+<a href="https://iosrjk.github.io/xhj/Android" target="_blank">安卓Android</a> 
+
+[3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
+
+## 2 代理工具 设置使用教程
+
+[1] [微软 Windows 使用 Shadowsocks 设置教程](windows.md)
+
+[2] [安卓 Android 使用 Shadowsocks 设置教程](Android.md)
+
+[3] [苹果 iOS 使用 Shadowsocks 设置教程](ios.md)
+
+[4] [代理工具客户端软件备用下载地址](download.md)
+
+## 3 苹果美区账号免费账号共享
+
+[1] [APPLE ID 美区苹果账号  点击获取](appleid.md) 
+
+[2] [如何注册美区APPLE ID的终极指南](apple-id.md)
+
+## 4 申明
+
+以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
+
+请勿用于非法用途，并对自己的任何行爲进行负责。
+
+#### [<< 返回首页](https://iosrjk.github.io/xhj/)
