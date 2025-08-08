@@ -81,7 +81,7 @@ ps：美区 App Store 中的应用是需要交税的，美国免税州，Oregon�
 
 <hr>
 
-### [<< 返回首页](https://iosrjk.github.io/xhj/appleid)
+### [<< 返回首页](https://iosrjk.github.io/xhj)
 
 
 
