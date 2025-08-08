@@ -24,7 +24,7 @@
 
 [1] [APPLE ID 美区苹果账号  点击获取](appleid.md) 
 
-[2] [如何注册美区APPLE ID的终极指南](apple-id.md)
+[2] [如何注册美区APPLE ID的终极指南](apple_id.md)
 
 ## 4 申明
 
