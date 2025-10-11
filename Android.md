@@ -2,13 +2,15 @@
 
 ## 第一步 下载 Shadowsocks 客户端
 
-下载：【 推荐 [Shadowsocks-v5.2.0文件点击下载直接安装](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/ac92871d6838576e/shadowsocks--universal-5.2.0.apk)】|【 [Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://pan.quark.cn/s/c5a3a0e3fefc)】
+下载：【 推荐 】[Shadowsocks-v5.2.0文件点击下载直接安装](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/ac92871d6838576e/shadowsocks--universal-5.2.0.apk)|【[Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks)】|【 [历史版本](https://pan.quark.cn/s/c5a3a0e3fefc)】
 
 注意：此软件可能带广告，下载后左滑删去即可
 
 ## 第二步 获取 Shadowsocks 账号信息
 
-详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
+详见：
+[SS/ShadowsocksR 服务器节点 点击获取]
+(ss.md)
 
 ## 第三步 配置 Shadowsocks 客户端
 
