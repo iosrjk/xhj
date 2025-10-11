@@ -2,7 +2,7 @@
 
 ## 第一步 下载 Shadowsocks 客户端
 
-下载：【 推荐 [Shadowsocks-v5.2.0文件点击下载直接安装](https://tntfiles.com/download/03e142469929d126f088e79a178f479e20a3b815eed6d63e4fcc4905dda4ddbe/shadowsocks--universal-5.2.0.apk?1754464175.0346)】|【 [Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://pan.quark.cn/s/f8fbbef29892)】
+下载：【 推荐 [Shadowsocks-v5.2.0文件点击下载直接安装](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/ac92871d6838576e/shadowsocks--universal-5.2.0.apk)】|【 [Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://pan.quark.cn/s/c5a3a0e3fefc)】
 
 注意：此软件可能带广告，下载后左滑删去即可
 
@@ -24,7 +24,7 @@
 
 3、程序自动识别二维码并导入服务器节点信息
 
-4、最后点击 【小飞机】 的标志 即可连接上网了
+4、最后点击【小飞机】的标志 即可连接上网了
 
 ### 若出现提示：您的设备不支持Google Play服务 因此无法运行Shadowsocks
 
@@ -37,12 +37,12 @@
 
 ![](https://i.postimg.cc/4dcHxF2L/android3.png)
 
-3、若仍不能使用，可以尝试ROOT你的手机，请 www.baidu.com 或者 www.google.com 
+3、若仍不能使用，可以尝试ROOT你的手机，请访问 www.baidu.com 或者 www.google.com
 
-注：搜索关键字：[您的设备不支持Google Play服务 因此无法运行](https://www.baidu.com/s?ie=UTF-8&wd=%E6%82%A8%E7%9A%84%E8%AE%BE%E5%A4%87%E4%B8%8D%E6%94%AF%E6%8C%81Google%20Play%E6%9C%8D%E5%8A%A1%20%E5%9B%A0%E6%AD%A4%E6%97%A0%E6%B3%95%E8%BF%90%E8%A1%8C)
+注：搜索关键字：[您的设备不支持Google Play服务 因此无法运行](https://www.baidu.com/s?ie=UTF-8&wd=您的设备不支持Google Play服务 因此无法运行)
 
 ## 其他说明
 
-在您信息配置完成后，我们推荐在功能设置中设置「绕过局域网及中国大陆模式」，该模式可以实现自动代理，其他选项不要启用，就可打开游览器访问 www.google.com 网站进行测试。
+在您信息配置完成后，我们推荐在功能设置中设置「绕过局域网及中国大陆模式」，该模式可以实现自动代理，其他选项不要启用，就可打开浏览嚣访问 www.google.com 网站进行测试。
 
-### [<< 返回首页](https://iosrjk.github.io/xhj/)
+###[<< 返回首页](https://iosrjk.github.io/xhj/) 
