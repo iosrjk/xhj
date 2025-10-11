@@ -8,7 +8,7 @@ Clash for Windows是Windows上流行的客户端，以下教程将提供Clash fo
 
 下载任意一个软件压缩包，下载后解压至任意目录使用。
 
-1、下载：【[合集 解压密码1](https://pan.quark.cn/s/4ff9907e9d7e)】
+1、下载：【[合集 解压密码1](https://pan.quark.cn/s/11e0743d0d98)】
 
 2、如果出现Windows防火墙或杀软警告，请全部允许！
 
