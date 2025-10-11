@@ -5,8 +5,8 @@
 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md) → 3 设置启用即可
 
 [2] 客户端下载：<a href="https://iosrjk.github.io/xhj/Windows" target="_blank">微软Windows</a> | 
-<一个 超链接="https://iosrjk.github.io/xhj/ios" 目标="_blank">苹果iPhone/ipad</超链接> | 
-<一个 href="https://iosrjk.github.io/xhj/Android" target="_blank">安卓Android</a> 
+<a href="https://iosrjk.github.io/xhj/ios" target="_blank">苹果iPhone/ipad</a> | 
+<a href="https://iosrjk.github.io/xhj/Android" target="_blank">安卓Android</a> 
 
 [3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
