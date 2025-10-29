@@ -16,27 +16,27 @@ Clash for Windows是Windows上流行的客户端，以下教程将提供Clash fo
 
 下载后解压文件运行【Clash for Windows.exe】进入如下界面：
 
-![](https://i.postimg.cc/KjxwSbWw/clash1.png)
+![](https://i.imgs.ovh/2025/10/29/7K1bQm.png)
 
 ## 第三步 获取订阅
 
 1、点击左侧的【配置】，进入如下界面：
 
-![](https://i.postimg.cc/Kvcw0ZBg/clash2.png)
+![](https://i.imgs.ovh/2025/10/29/7K1VUF.png)
 
 2、复制你的订阅链接，并粘贴到界面上方的输入框中，然后点击【下载】按钮。
 
-![](https://i.postimg.cc/2j7gdqbD/clash3.png)
+![](https://i.imgs.ovh/2025/10/29/7K1zu9.png)
 
 3、下载好之后，此界面会出现一个订阅，点击它。
 
-![](https://i.postimg.cc/Fzpqhq5R/clash4.png)
+![](https://i.imgs.ovh/2025/10/29/7K1Rrc.png)
 
 ## 第四步 选择节点和模式
 
 点击左侧的【代理】，进入如下界面：
 
-![](https://i.postimg.cc/rFhbbvNZ/clash5.png)
+![](https://i.imgs.ovh/2025/10/29/7K1gep.png)
 
 在此页面中，【脚本】不常用，其它介绍如下：
 
@@ -52,7 +52,7 @@ Clash for Windows是Windows上流行的客户端，以下教程将提供Clash fo
 
 将倒数第二行的【系统代理】开启，即可代理浏览器流量
 
-![](https://i.postimg.cc/4xq04VMz/clash6.png)
+![](https://i.imgs.ovh/2025/10/29/7K1kK6.png)
 
 ## 最后 其他设置说明
 
