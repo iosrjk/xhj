@@ -36,7 +36,7 @@
 
 （如图所示：App Store 退出已登录的 Apple ID 界面）
 
-![](https://i.postimg.cc/vHB1yhmT/id10.png)
+![](https://i.imgs.ovh/2025/10/29/7K3B5x.png)
 
 ####  二、切换到新的Apple ID登录
 
@@ -52,7 +52,7 @@
 
 （如图所示：App Store 更换其他 Apple ID 登录界面）
 
-![](https://i.postimg.cc/KvRYwY9g/ida.png)
+![](https://i.imgs.ovh/2025/10/29/7K3xjL.png)
 
 ####  三、绕过双重认证
 
@@ -60,7 +60,7 @@
 
 如图所示：App Store 登录 Apple ID 过程中不开启双重认证界面）
 
-![](https://i.postimg.cc/8P9CSV3X/idb.png)
+![](https://i.imgs.ovh/2025/10/29/7K3XdM.png)
 
 ####  四、其他注意事项
 
