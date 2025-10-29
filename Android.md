@@ -2,6 +2,8 @@
 
 ## 第一步 下载 Shadowsocks 客户端
 
+安卓手机推荐使用Clash
+
 下载：【 推荐 】[Shadowsocks-v5.2.0文件点击下载直接安装](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/ac92871d6838576e/shadowsocks--universal-5.2.0.apk)|【[Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks)】|【 [历史版本](https://pan.quark.cn/s/c5a3a0e3fefc)】
 
 注意：此软件可能带广告，下载后左滑删去即可
@@ -16,7 +18,7 @@
 
 有多种配置节点信息的方法，可以根据你的习惯和需要选择
 
-![](https://i.postimg.cc/s2vZt2YR/android1.png)
+![](https://i.imgs.ovh/2025/10/29/7K3TZx.png)
 
 ### 推荐，扫二维码配置
 
@@ -32,12 +34,12 @@
 
 1、在添加节点过程中出现如下提示，请下载安装Google Play服务框架、Google Play 服务、Google Play 谷歌三件套。
 
-![](https://i.postimg.cc/wBZsHd2R/android2.png)
+![](https://i.imgs.ovh/2025/10/29/7K3SIL.png)
 
 
 2、若是下载谷歌三件套后仍然无法使用，部分手机自带的商城里下载【谷歌安装器】后可正常使用。
 
-![](https://i.postimg.cc/4dcHxF2L/android3.png)
+![](https://i.imgs.ovh/2025/10/29/7K3UqM.png)
 
 3、若仍不能使用，可以尝试ROOT你的手机，请访问 www.baidu.com 或者 www.google.com
 
