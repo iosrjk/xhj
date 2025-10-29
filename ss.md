@@ -4,4 +4,11 @@
 
 2、 <a class="btn btn-danger" href="https://hniko.top/#/register?code=2JauAyDL">Hneko云，量大管饱~【AD】</a>  
  
+3、 <a class="btn btn-danger" href="https://xinamd.cc/#/register?code=vuYIeGLM">xinAMD，免费试用【AD】</a>  
+ 
+4、 <a class="btn btn-danger" href="https://7m9gi9norz.1095813.xyz/index.php#/register?code=klLZZ7gd">skylumo，免费试用，69元99999G！不限时，用完即止【AD】</a>  
 
+
+
+
+##以上均为自用推广，有需要可以订阅，建议先订阅便宜的套餐测试效果再决定是否使用。
