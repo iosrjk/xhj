@@ -14,27 +14,27 @@
 
 下载后解压文件运行【Clash for Windows.exe】进入如下界面：
 
-![](https://i.postimg.cc/NM2n754w/01.webp)
+![](https://i.imgs.ovh/2025/10/29/7K3M0U.webp)
 
 ## 第三步 导入订阅与使用
 
 1、登录你的机场在 “我的订阅”→“Clash/Shadowrocket 订阅”→“复制订阅地址”。在 Verge 中点击“配置”，粘贴链接并点击“导入”，稍后套餐将显示如下：
 
-![](https://i.postimg.cc/0jgBtPWk/2.webp)
+![](https://i.imgs.ovh/2025/10/29/7K3PbX.webp)
 
 2、复制你的订阅链接，并粘贴到界面上方的输入框中，然后点击【导入】按钮。
 
-![](https://i.postimg.cc/903nxC8D/4.webp)
+![](https://i.imgs.ovh/2025/10/29/7K3Q2Q.webp)
 
 ## 第四步 选择节点和模式
 
 1、导入后点击“代理”，选择需要的代理类型和节点。
 
-![](https://i.postimg.cc/KjXH9xqk/5.webp)
+![](https://i.imgs.ovh/2025/10/29/7K3WXF.webp)
 
 2、点击“设置”，启用代理即可开始使用
 
-![](https://i.postimg.cc/FztBPNWS/6.webp)
+![](https://i.imgs.ovh/2025/10/29/7K32Fm.webp)
 
 
 ## 最后 其他设置说明
