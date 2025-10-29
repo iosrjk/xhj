@@ -12,3 +12,21 @@
 
 
 ##以上均为自用推广，有需要可以订阅，建议先订阅便宜的套餐测试效果再决定是否使用。
+
+
+
+1元机场订阅参考
+
+![](https://i.postimg.cc/wBKdwwgz/1yuan.png)
+
+Hneko云订阅参考
+
+![](https://i.postimg.cc/fb4h88DR/henko.png)
+
+xinAMD订阅参考
+
+![](https://i.postimg.cc/HLGC66ds/xinamd.png)
+
+skylumo订阅参考
+
+![](https://i.postimg.cc/25pf00rj/skylumo.png)
