@@ -17,16 +17,16 @@
 
 1元机场订阅参考
 
-![](https://i.postimg.cc/wBKdwwgz/1yuan.png)
+![](https://i.imgs.ovh/2025/10/29/7K3456.png)
 
 Hneko云订阅参考
 
-![](https://i.postimg.cc/fb4h88DR/henko.png)
+![](https://i.imgs.ovh/2025/10/29/7K3EdO.png)
 
 xinAMD订阅参考
 
-![](https://i.postimg.cc/HLGC66ds/xinamd.png)
+![](https://i.imgs.ovh/2025/10/29/7K3l0d.png)
 
 skylumo订阅参考
 
-![](https://i.postimg.cc/25pf00rj/skylumo.png)
+![](https://i.imgs.ovh/2025/10/29/7K3tzg.png)
