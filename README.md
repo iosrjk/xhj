@@ -10,6 +10,8 @@
 
 [3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
+[4] 购买节点后如何配置订阅信息，详见：[订阅配置教程](ssr.md)
+
 ## 2 代理工具 设置使用教程
 
 [1] [微软 Windows 使用 Clash 设置教程](Windows.md) 【推荐】
