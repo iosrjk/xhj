@@ -12,21 +12,21 @@
 
 ## 2 代理工具 设置使用教程
 
-[1] [微软 Windows 使用 Clash 设置教程](Windows.md) 推荐
+[1] [微软 Windows 使用 Clash 设置教程](Windows.md) 【推荐】
 
-[2] [微软 Windows 使用 V2rayN 设置教程](V2rayN.md) 推荐
+[2] [微软 Windows 使用 V2rayN 设置教程](V2rayN.md) 【推荐】
 
-[3] [安卓 Android 使用 Clash 设置教程](Clash.md) 推荐
+[3] [安卓 Android 使用 Clash 设置教程](Clash.md) 【推荐】
 
 [4] [安卓 Android 使用 Shadowsocks 设置教程](Android.md)
 
-[5] [苹果 iOS 使用 Shadowsocks 设置教程](ios.md) 推荐
+[5] [苹果 iOS 使用 Shadowsocks 设置教程](ios.md) 【推荐】
 
-[6] [苹果 Mac 使用 Clash 设置教程](Mac.md) 推荐
+[6] [苹果 Mac 使用 Clash 设置教程](Mac.md) 【推荐】
 
 [7] [代理工具客户端软件备用下载地址](download.md)
 
-## 3 个苹果美区账号免费账号共享
+## 3 苹果美区账号免费账号共享
 
 [1] [APPLE ID 美区苹果账号  点击获取](appleid.md) 
 
