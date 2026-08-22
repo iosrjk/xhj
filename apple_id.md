@@ -121,7 +121,7 @@
 
 打开后随机生成一个美国免税州地址即可。
 
-![美国地址生成器](https://ae-pic-a1.aliexpress-media.com/kf/S4ff78c52f594463b8b1654025e65a5e4I.png)
+![美国地址生成器](https://jsd.cdn.noisework.cn/cdn?url=https://ae-pic-a1.aliexpress-media.com/kf/S4ff78c52f594463b8b1654025e65a5e4I.png)
 
 ---
 
