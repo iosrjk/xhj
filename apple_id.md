@@ -8,11 +8,11 @@
   <a href="https://appleid.apple.com/account#!&page=create">
     <img src="https://img.shields.io/badge/🍎%20官方注册-Apple-000000?style=for-the-badge" alt="Apple 官方注册">
   </a>
-  <a href="https://iosrjk.github.io/xhj/appleid">
+  <a href="https://iosrjk.github.io/fanqiang/appleid">
     <img src="https://img.shields.io/badge/🇺🇸%20免费账号-查看-007AFF?style=for-the-badge" alt="免费账号">
   </a>
-  <a href="https://github.com/iosrjk/xhj">
-    <img src="https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github" alt="GitHub Stars">
+  <a href="https://github.com/iosrjk/fanqiang">
+    <img src="https://img.shields.io/github/stars/iosrjk/fanqiang?style=for-the-badge&logo=github" alt="GitHub Stars">
   </a>
 </p>
 
@@ -317,21 +317,19 @@
 - 🇺🇸 [美区 Apple ID 免费账号](appleid.md)
 - 🍎 [Apple 官方注册](https://appleid.apple.com/account#!&page=create)
 - 🇺🇸 [美国地址生成器](https://192688.xyz)
-- 🏠 [返回项目首页](README.md)
-
 ---
 
 <div align="center">
 
 ### ⭐ 如果教程对你有帮助，欢迎 Star
 
-<a href="https://github.com/iosrjk/xhj">
-  <img src="https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Star%20Project" alt="Star Project">
+<a href="https://github.com/iosrjk/fanqiang">
+  <img src="https://img.shields.io/github/stars/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Star%20Project" alt="Star Project">
 </a>
 
 <br><br>
 
-**Made with ❤️ by [iosrjk](https://github.com/iosrjk/xhj)**
+**Made with ❤️ by [iosrjk](https://github.com/iosrjk/fanqiang)**
 
 <br>
 

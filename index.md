@@ -1,16 +1,16 @@
 ---
 layout: default
-title: XHJ
+title: 科学上网
 description: 网络工具 · 使用指南 · 资源导航
 ---
 
 <div class="hero" markdown="1">
 
-# 🌐 XHJ
+# ✈️ 科学上网
 
-### 网络工具 · 使用指南 · 资源导航
+### 多平台网络工具 · 使用指南 · 资源导航
 
-[![Stars](https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Stars)](https://github.com/iosrjk/xhj) [![Last Commit](https://img.shields.io/github/last-commit/iosrjk/xhj?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/iosrjk/xhj) [![License](https://img.shields.io/github/license/iosrjk/xhj?style=for-the-badge&label=License)](https://github.com/iosrjk/xhj)
+[![Stars](https://img.shields.io/github/stars/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Stars)](https://github.com/iosrjk/fanqiang) [![Last Commit](https://img.shields.io/github/last-commit/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/iosrjk/fanqiang) [![License](https://img.shields.io/github/license/iosrjk/fanqiang?style=for-the-badge&label=License)](https://github.com/iosrjk/fanqiang)
 
 **🖥 Windows · 🤖 Android · 🍎 iOS · 💻 macOS · 🔐 SS/SSR · 🗺 Apple ID**
 
@@ -163,8 +163,8 @@ description: 网络工具 · 使用指南 · 资源导航
 
 <div class="hero compact" markdown="1">
 
-[![Star this repository](https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Star%20this%20repository)](https://github.com/iosrjk/xhj)
+[![Star this repository](https://img.shields.io/github/stars/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Star%20this%20repository)](https://github.com/iosrjk/fanqiang)
 
-**Made with ❤️ by [iosrjk](https://github.com/iosrjk/xhj)**
+**维护： [iosrjk](https://github.com/iosrjk/fanqiang)**
 
 </div>

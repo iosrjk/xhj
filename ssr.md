@@ -50,8 +50,3 @@
 - 🍎 [iOS + Shadowrocket](ios.md)
 - 💻 [macOS + Clash Verge](Mac.md)
 
----
-
-## 🔙 返回
-
-[⬅️ 返回项目首页](README.md)

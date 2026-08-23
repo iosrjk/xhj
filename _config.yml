@@ -1,8 +1,8 @@
-title: XHJ
-description: 网络工具 · 使用指南 · 资源导航
+title: 科学上网
+description: 多平台网络工具 · 使用指南 · 资源导航
 lang: zh-CN
 encoding: UTF-8
-baseurl: /xhj
+baseurl: /fanqiang
 url: https://iosrjk.github.io
 markdown: kramdown
 kramdown:
@@ -23,3 +23,5 @@ defaults:
 exclude:
   - LICENSE
   - README.md
+  - AUTO_UPDATE.md
+  - scripts

@@ -5,11 +5,11 @@
 ### App Store 共享账号使用说明
 
 <p>
-  <a href="https://iosrjk.github.io/xhj/apple_id">
+  <a href="https://iosrjk.github.io/fanqiang/apple_id">
     <img src="https://img.shields.io/badge/📝%20注册教程-查看指南-007AFF?style=for-the-badge" alt="注册教程">
   </a>
-  <a href="https://github.com/iosrjk/xhj">
-    <img src="https://img.shields.io/badge/GitHub-XHJ-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/iosrjk/fanqiang">
+    <img src="https://img.shields.io/badge/GitHub-fanqiang-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -126,10 +126,5 @@ iOS26系统以上打开：**设置 → Apple账号 → 媒体与购买项目 →
 
 为了避免账号入口变化后找不到页面：
 
-👉 [https://iosrjk.github.io/xhj/](https://iosrjk.github.io/xhj/)
+👉 [https://iosrjk.github.io/fanqiang/](https://iosrjk.github.io/fanqiang/)
 
----
-
-## 🔙 返回
-
-[⬅️ 返回项目首页](README.md)

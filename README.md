@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌐 XHJ
+# ✈️ 科学上网
 
-### 网络工具 · 使用指南 · 资源导航
+### 多平台网络工具 · 使用指南 · 资源导航
 
-[![Stars](https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Stars)](https://github.com/iosrjk/xhj) [![Last Commit](https://img.shields.io/github/last-commit/iosrjk/xhj?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/iosrjk/xhj) [![License](https://img.shields.io/github/license/iosrjk/xhj?style=for-the-badge&label=License)](https://github.com/iosrjk/xhj)
+[![Stars](https://img.shields.io/github/stars/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Stars)](https://github.com/iosrjk/fanqiang) [![Last Commit](https://img.shields.io/github/last-commit/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/iosrjk/fanqiang) [![License](https://img.shields.io/github/license/iosrjk/fanqiang?style=for-the-badge&label=License)](https://github.com/iosrjk/fanqiang)
 
 <p>
   <b>🖥 Windows · 🤖 Android · 🍎 iOS · 💻 macOS · 🔐 SS/SSR · 🗺 Apple ID</b>
@@ -191,12 +191,12 @@
 
 <div align="center">
 
-<a href="https://github.com/iosrjk/xhj">
-  <img src="https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Star%20this%20repository" alt="Star this repository">
+<a href="https://github.com/iosrjk/fanqiang">
+  <img src="https://img.shields.io/github/stars/iosrjk/fanqiang?style=for-the-badge&logo=github&label=Star%20this%20repository" alt="Star this repository">
 </a>
 
 <br><br>
 
-**Made with ❤️ by [iosrjk](https://github.com/iosrjk/xhj)**
+**Made with ❤️ by [iosrjk](https://github.com/iosrjk/fanqiang)**
 
 </div>
