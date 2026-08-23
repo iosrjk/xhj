@@ -4,7 +4,7 @@ title: XHJ
 description: 网络工具 · 使用指南 · 资源导航
 ---
 
-<div align="center">
+<div class="hero" markdown="1">
 
 # 🌐 XHJ
 
@@ -12,9 +12,7 @@ description: 网络工具 · 使用指南 · 资源导航
 
 [![Stars](https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Stars)](https://github.com/iosrjk/xhj) [![Last Commit](https://img.shields.io/github/last-commit/iosrjk/xhj?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/iosrjk/xhj) [![License](https://img.shields.io/github/license/iosrjk/xhj?style=for-the-badge&label=License)](https://github.com/iosrjk/xhj)
 
-<p>
-  <b>🖥 Windows · 🤖 Android · 🍎 iOS · 💻 macOS · 🔐 SS/SSR · 🗺 Apple ID</b>
-</p>
+**🖥 Windows · 🤖 Android · 🍎 iOS · 💻 macOS · 🔐 SS/SSR · 🗺 Apple ID**
 
 </div>
 
@@ -22,7 +20,7 @@ description: 网络工具 · 使用指南 · 资源导航
 
 ## 🚀 快速开始
 
-> **💡 提示**
+> **💡 提示**  
 > 第一次使用？先选择你的设备，再按照对应教程一步一步操作。
 
 | 平台 | 推荐工具 | 备用工具 |
@@ -37,52 +35,32 @@ description: 网络工具 · 使用指南 · 资源导航
 ## 🧭 使用流程
 
 ```text
-┌──────────────────────────────────────────────┐
-│                 🚀 QUICK START               │
-├──────────────────────────────────────────────┤
-│                                              │
-│   ① 选择设备                                  │
-│          ↓                                   │
-│   ② 下载客户端                                │
-│          ↓                                   │
-│   ③ 获取订阅 / 节点                           │
-│          ↓                                   │
-│   ④ 导入配置                                  │
-│          ↓                                   │
-│   ⑤ 选择节点                                  │
-│          ↓                                   │
-│   ⑥ 开启代理                                  │
-│          ↓                                   │
-│   ⑦ 测试网络                                  │
-│                                              │
-└──────────────────────────────────────────────┘
+① 选择设备 → ② 下载客户端 → ③ 获取订阅 / 节点
+       ↓
+④ 导入配置 → ⑤ 选择节点 → ⑥ 开启代理 → ⑦ 测试网络
 ```
 
 ---
 
-# 📱 平台教程
+## 📱 平台教程
 
 ### 🖥 Windows
-
 - ⭐ [Windows + Clash Verge](Windows.md)
 - ⭐ [Windows + V2rayN](V2rayN.md)
 
 ### 🤖 Android
-
 - ⭐ [Android + Clash Meta](ClashMeta.md)
 - ⭐ [Android + FlClash](FlClash.md)
 
 ### 🍎 iPhone / iPad
-
 - ⭐ [iOS + Shadowsocks / Shadowrocket](ios.md)
 
 ### 💻 macOS
-
 - ⭐ [macOS + Clash Verge](Mac.md)
 
 ---
 
-# 🔐 节点与订阅
+## 🔐 节点与订阅
 
 | 资源 | 说明 |
 | :--- | :--- |
@@ -90,29 +68,27 @@ description: 网络工具 · 使用指南 · 资源导航
 | 🧩 [订阅配置教程](ssr.md) | 如何复制、导入订阅 |
 | 📦 [客户端备用下载](download.md) | 客户端与备用下载入口 |
 
-> **⚠️ 注意**
+> **⚠️ 注意**  
 > 请保护好自己的订阅链接，不要将包含个人信息或专属订阅 Token 的链接公开发布。
 
 ---
 
-# 🍎 Apple 服务
+## 🍎 Apple 服务
 
 | 项目 | 说明 |
 | :--- | :--- |
 | 🇺🇸 [美区 Apple ID 免费账号](appleid.md) | 共享账号使用说明 |
 | 📝 [美区 Apple ID 注册教程](apple_id.md) | 从注册到 App Store 登录的完整教程 |
 
-> **❗ 重要**
+> **❗ 重要**  
 > 使用共享 Apple ID 时，仅用于 App Store / 媒体与购买项目登录。**不要在 iCloud 中登录他人的共享账号。**
 
 ---
 
-# 🧰 教程索引
+## 🧰 教程索引
 
-<details>
+<details markdown="1">
 <summary><b>展开全部教程</b></summary>
-
-<br>
 
 | 文件 | 教程 |
 | :--- | :--- |
@@ -131,29 +107,21 @@ description: 网络工具 · 使用指南 · 资源导航
 
 ---
 
-# ❓ 常见问题
+## ❓ 常见问题
 
-<details>
+<details markdown="1">
 <summary><b>🔴 导入订阅后没有节点怎么办？</b></summary>
 
-<br>
-
-请检查：
-
-1. 订阅链接是否复制完整
-2. 订阅是否已经过期
-3. 当前套餐是否有效
+1. 检查订阅链接是否复制完整
+2. 检查订阅是否已经过期
+3. 检查当前套餐是否有效
 4. 尝试更新订阅
 5. 尝试更换客户端
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🟡 节点显示但无法连接怎么办？</b></summary>
-
-<br>
-
-可以依次尝试：
 
 1. 更换节点
 2. 测试节点延迟
@@ -163,10 +131,8 @@ description: 网络工具 · 使用指南 · 资源导航
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🔵 Apple App Store 登录应该注意什么？</b></summary>
-
-<br>
 
 如果使用共享账号：
 
@@ -181,7 +147,7 @@ description: 网络工具 · 使用指南 · 资源导航
 
 ---
 
-# ⚠️ 使用声明
+## ⚠️ 使用声明
 
 本项目主要用于**软件使用说明、配置学习与技术交流**。
 
@@ -195,13 +161,9 @@ description: 网络工具 · 使用指南 · 资源导航
 
 如果这个项目对你有帮助，欢迎点一个 Star ⭐
 
-<div align="center">
+<div class="hero compact" markdown="1">
 
-<a href="https://github.com/iosrjk/xhj">
-  <img src="https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Star%20this%20repository" alt="Star this repository">
-</a>
-
-<br><br>
+[![Star this repository](https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Star%20this%20repository)](https://github.com/iosrjk/xhj)
 
 **Made with ❤️ by [iosrjk](https://github.com/iosrjk/xhj)**
 
