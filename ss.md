@@ -14,7 +14,7 @@
 | 🟤 Ai云边 | 提供试用 | [立即访问](https://www.claudeborder.com/#/register?code=VWyB4waK) |
 | 🟠 skylumo | 量大套餐 | [立即访问](https://skylumo.com/index.php#/register?code=klLZZ7gd) |
 
-> [!NOTE]
+> **ℹ️ 说明**
 > 以上链接属于推广 / 推荐入口。套餐价格、流量、可用性和服务条款可能随时变化，请以服务商当前页面为准。
 
 ---

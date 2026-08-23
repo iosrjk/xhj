@@ -32,7 +32,7 @@
 
 ![复制订阅](https://img.meituan.net/content/a1f7c93eaa1ff6d583e514d74730c158153881.png)
 
-> [!WARNING]
+> **⚠️ 注意**
 > **不要公开自己的专属订阅链接。**
 >
 > 订阅 URL 可能包含身份标识或访问 Token。泄露后可能导致他人消耗你的套餐流量。
@@ -45,8 +45,8 @@
 
 - 🖥 [Windows + Clash Verge](Windows.md)
 - 🖥 [Windows + V2rayN](V2rayN.md)
-- 🤖 [Android + Clash Meta](Clash.md)
-- 🤖 [Android + Shadowsocks](Android.md)
+- 🤖 [Android + Clash Meta](ClashMeta.md)
+- 🤖 [Android + FlClash](FlClash.md)
 - 🍎 [iOS + Shadowrocket](ios.md)
 - 💻 [macOS + Clash Verge](Mac.md)
 

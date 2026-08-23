@@ -1,3 +1,9 @@
+---
+layout: default
+title: XHJ
+description: 网络工具 · 使用指南 · 资源导航
+---
+
 <div align="center">
 
 # 🌐 XHJ

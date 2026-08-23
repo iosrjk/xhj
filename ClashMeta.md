@@ -148,7 +148,7 @@ Clash 是基于规则的网络代理核心，Clash Meta Android 是 Android 平�
 
 ![测试节点](https://img.meituan.net/content/86ee53c3a57dd9dfdcd01b22b3089caa120346.png)
 
-> [!TIP]
+> **💡 提示**
 > 延迟只是网络响应指标，不等于实际网页访问速度。实际效果还会受到线路、拥塞和目标网站影响。
 
 ---
@@ -187,7 +187,7 @@ Clash 是基于规则的网络代理核心，Clash Meta Android 是 Android 平�
 | 🔗 Direct | 所有请求直连 |
 | 🧩 PAC | 根据 PAC 文件判断 |
 
-> [!TIP]
+> **💡 提示**
 > 普通用户通常优先使用 **Rule / 规则模式**，实际行为以配置文件为准。
 
 ---

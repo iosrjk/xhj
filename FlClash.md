@@ -78,7 +78,7 @@ FlClash 是一款简洁、开源、跨平台的 Clash 代理客户端，帮助�
 
 🗂️ [网盘版本](https://pan.quark.cn/s/c5a3a0e3fefc)
 
-> [!NOTE]
+> **ℹ️ 说明**
 > 下载第三方 APK 前，请自行确认文件来源和安全性。
 
 ---
