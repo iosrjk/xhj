@@ -1,87 +1,135 @@
-# 苹果美区账号 APPLE ID 免费账号共享
+<div align="center">
 
-前言：人人都需要一个美区 Apple ID 账号，你或许不以为然，只是你还不知道什么时候需要！
+# 🇺🇸 美区 Apple ID 免费账号
 
-## 苹果美区账号 APPLE ID 免费账号共享
+### App Store 共享账号使用说明
 
-####  【果书免费共享】:  [点击这里获取共享id](https://idshare001.me/goso.html) 
+<p>
+  <a href="https://iosrjk.github.io/xhj/apple_id">
+    <img src="https://img.shields.io/badge/📝%20注册教程-查看指南-007AFF?style=for-the-badge" alt="注册教程">
+  </a>
+  <a href="https://github.com/iosrjk/xhj">
+    <img src="https://img.shields.io/badge/GitHub-XHJ-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
-####  【小火箭共享】:  [点击这里获取共享id](https://id.bocchi.vip/)
+</div>
 
-####  【CC宝盒免费共享】:  [点击这里获取共享id](https://ccbaohe.com/appleID/) 
+---
 
-####  【小优免费共享】:  [点击这里获取共享id](https://idfree.top/) 
+## ⚠️ 重要提醒
 
-避免跟丢我们，密码及账号可能会更新，建议收藏本地址: [https://iosrjk.github.io/xhj/](https://iosrjk.github.io/xhj/)
+> [!CAUTION]
+> **共享 Apple ID 只能用于 App Store / 媒体与购买项目。**
+>
+> **不要将共享账号登录到 iCloud。**
+>
+> 不要使用共享账号修改密码、安全信息、付款方式或其他个人资料。
 
+---
 
-<p style="color: red; font-weight: bold;">注：切记请勿登录iCloud，千万不要在 iCloud 登陆，手机被锁我们也无能为力！若此APPLE ID账号被锁，登录后请选择邮件解锁，我们都会及时的解锁。</p>
+## 🎁 共享账号入口
 
-<hr>
+| 服务 | 入口 |
+| :--- | :--- |
+| 🍎 果书 | [点击获取共享账号](https://idshare001.me/goso.html) |
+| 🚀 小火箭共享 | [点击获取共享账号](https://id.bocchi.vip/) |
+| 📦 CC 宝盒 | [点击获取共享账号](https://ccbaohe.com/appleID/) |
+| ⭐ 小优 | [点击获取共享账号](https://idfree.top/) |
 
-## 苹果共享账户登录App Store步骤
+> [!NOTE]
+> 共享账号、密码和可用状态可能发生变化。如果当前账号不可用，请返回上一级页面重新获取。
 
-很多小白iCloud和App Store傻傻分不清楚，它们是可以分别登陆的，共享id只能在App Store登陆，正确登录方法如下：
+---
 
-![](https://img.muooy.com/img/1/2025/06/27/685e58601efd5.webp)
+## 🔐 App Store 正确登录方式
 
+### 1. 退出当前 App Store 账号
 
-####  一、从App Store退出当前登录的Apple ID
+iOS26系统以下打开：**App Store → 右上角头像 → 拉到底部 → 退出登录（旧版本系统）**
+![切换 Apple ID](https://p1.meituan.net/csc/33ea845d2b0aa3a9288bdc66b87fa0fa136325.png)
+iOS26系统以上打开：**设置 → Apple账号 → 媒体与购买项目 → 退出登录（新版本系统）**
+![退出 App Store 账号新](https://p0.meituan.net/csc/32681992ca8026e88774e89cf0710d2e348963.png)
 
-1、轻触设备桌面的「App Store」图标，进入应用商店。
+![退出 App Store 账号](https://img.muooy.com/img/1/2025/06/27/685e58601efd5.webp)
 
-2、点击屏幕右上角的「用户头像」图标。
+---
 
-3、在弹出的账户界面中，滑动至底部，找到并点击「退出登录」选项。
+### 2. 登录新的 Apple ID
 
-（如图所示：App Store 退出已登录的 Apple ID 界面）
+退出后：
 
-![](https://i.imgs.ovh/2025/10/29/7K3B5x.png)
-
-####  二、切换到新的Apple ID登录
-
-完成当前账号的登出后，你将看到登录提示。
-
-1、点击「通过 Apple ID 登录」按钮。
-
-2、此时，系统可能会弹出询问窗口，显示「以 XXX 的身份设置媒体与购买项目？」。请注意，这是许多用户容易出错的关键步骤。
-
-3、为了登录新的 Apple ID，你必须选择点击「不是 XXX」 。若选择“XXX”，系统会将你引导回之前的账号。
-
-4、随后，在新出现的界面中准确输入你希望登录的 Apple ID 信息，并点击「继续」按钮以完成登录过程。
+1. 点击「通过 Apple ID 登录」
+2. 如果出现「以 XXX 的身份设置媒体与购买项目？」
+3. 选择 **「不是 XXX」**
+4. 输入新的 Apple ID
+5. 点击继续
 
 （如图所示：App Store 更换其他 Apple ID 登录界面）
 
-![](https://i.imgs.ovh/2025/10/29/7K3xjL.png)
+![切换 Apple ID](https://p0.meituan.net/csc/57e6775f18046aad1f41d23a9155a512296084.png)
 
-####  三、绕过双重认证
+---
+
+### 3. 关于双重认证提示
 
 点击提示界面下方的 「其他选项」 ，然后点击「不升级」 来跳过双重认证的启用。
 
-如图所示：App Store 登录 Apple ID 过程中不开启双重认证界面）
 
-![](https://i.imgs.ovh/2025/10/29/7K3XdM.png)
+![安全提示](https://p0.meituan.net/csc/a05b547a52e71588f3c07458d9338edb257910.png)
+> [!IMPORTANT]
+> 不要为了使用共享账号而修改账号安全设置。
+>
+> 如果 Apple 要求验证，应按照 Apple 官方流程完成。
 
-####  四、其他注意事项
+---
 
-· 禁止在设置里登录： 共享账号仅在「App Store」中登录使用，绝不能在 iOS 设备设置中的 iCloud 部分登录。
+## 📱 下载完成后
 
-· 避免开启双重认证： 在登录 App Store 共享账号的过程中，若系统提示开启双重认证，请务必点击提示下方的「其他选项」，然后选择「不升级」以跳过此步骤。
+建议：
 
-· 及时退出登录： 在成功下载所需应用后，请务必立即从 App Store 退出该共享账号登录。实际上，当应用开始下载后，你就可以点击退出登录，无需等待下载完成。
+1. 下载目标 App
+2. 确认 App 已经开始下载
+3. 退出共享账号
+4. 日后需要更新时，根据 App Store 的账号要求操作
 
-· 切勿绑定个人信息： 登录共享账号后，绝对不要尝试绑定任何个人信息，特别是付款方式、联系方式或其他敏感个人数据。
+---
 
-· 关于应用更新： 对于此前由共享账号下载的应用，若要更新，通常需要先卸载该应用，再以与下载时相同的共享账号重新下载，否则系统可能会提示账号已被停用。这是因为苹果系统要求应用的下载和更新必须由同一个 Apple ID 完成。
+## 🚫 这些操作不要做
 
-<hr>
+- ❌ 不要登录 iCloud！！！不要登录 iCloud！！！不要登录 iCloud！！！
+- ❌ 不要开启「查找我的 iPhone」到共享账号
+- ❌ 不要修改共享账号密码
+- ❌ 不要绑定自己的银行卡
+- ❌ 不要修改安全问题
+- ❌ 不要添加个人联系方式
+- ❌ 不要把账号密码公开发布
 
-## 当然你也可以自己注册一个苹果美区APPLE ID账号
+---
+
+## 🔄 关于应用更新
+
+对于此前由共享账号下载的应用，若要更新，通常需要先卸载该应用，再以与下载时相同的共享账号重新下载，否则系统可能会提示账号已被停用。这是因为苹果系统要求应用的下载和更新必须由同一个 Apple ID 完成。
+
+
+---
+
+# 📝 想拥有自己的美区 Apple ID？
 
 每天不同地区的 App Store 都有不同数量的应用下架。下架的原因多种多样，当然国区还要受益于某国特殊的环境。在特殊时期，某类应用还会被批量下架，不要折腾，不要喧嚣，一片和谐多好。国区 App Store 是一个政策妥协的结果，所以必然会导致部分软件的缺失。此外，国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。
 
+👉 **如何注册美区APPLE ID的终极指南 详见：[🇺🇸 查看完整注册教程](apple_id.md)**
 
-####  如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](https://iosrjk.github.io/xhj/apple_id)
+---
 
+## 📌 收藏本项目
 
-### [<< 返回首页](https://iosrjk.github.io/xhj)
+为了避免账号入口变化后找不到页面：
+
+👉 [https://iosrjk.github.io/xhj/](https://iosrjk.github.io/xhj/)
+
+---
+
+## 🔙 返回
+
+[⬅️ 返回项目首页](README.md)

@@ -1,43 +1,202 @@
-#科学上网 使用指南
+<div align="center">
 
-## 1 代理工具 如何使用？
+# 🌐 XHJ
 
-使用很简单：首先 1 下载安装好[客户端](README.md) → 2 扫码添加[SS/SSR节点信息](ss.md) → 3 设置启用即可
+### 网络工具 · 使用指南 · 资源导航
 
-[2] 客户端下载：<a href="https://iosrjk.github.io/xhj/Windows" target="_blank">微软Windows</a> | 
-<a href="https://iosrjk.github.io/xhj/ios" target="_blank">苹果iPhone/ipad</a> | 
-<a href="https://iosrjk.github.io/xhj/Android" target="_blank">安卓Android</a> 
+[![Stars](https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Stars)](https://github.com/iosrjk/xhj) [![Last Commit](https://img.shields.io/github/last-commit/iosrjk/xhj?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/iosrjk/xhj) [![License](https://img.shields.io/github/license/iosrjk/xhj?style=for-the-badge&label=License)](https://github.com/iosrjk/xhj)
 
-[3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
+<p>
+  <b>🖥 Windows · 🤖 Android · 🍎 iOS · 💻 macOS · 🔐 SS/SSR · 🗺 Apple ID</b>
+</p>
 
-[4] 购买节点后如何配置订阅信息，详见：[订阅配置教程](ssr.md)
+</div>
 
-## 2 代理工具 设置使用教程
+---
 
-[1] [微软 Windows 使用 Clash 设置教程](Windows.md) 【推荐】
+## 🚀 快速开始
 
-[2] [微软 Windows 使用 V2rayN 设置教程](V2rayN.md) 【推荐】
+> [!TIP]
+> 第一次使用？先选择你的设备，再按照对应教程一步一步操作。
 
-[3] [安卓 Android 使用 Clash 设置教程](Clash.md) 【推荐】
+| 平台 | 推荐工具 | 备用工具 |
+| :---: | :--- | :--- |
+| 🖥 **Windows** | [Clash Verge](Windows.md) ⭐ | [V2rayN](V2rayN.md) |
+| 🤖 **Android** | [Clash Mate](ClashMeta.md) ⭐ | [FlClash](FlClash.md) |
+| 🍎 **iPhone / iPad** | [Shadowsocks / Shadowrocket](ios.md) ⭐ | — |
+| 💻 **macOS** | [Clash Verge](Mac.md) ⭐ | — |
 
-[4] [安卓 Android 使用 Shadowsocks 设置教程](Android.md)
+---
 
-[5] [苹果 iOS 使用 Shadowsocks 设置教程](ios.md) 【推荐】
+## 🧭 使用流程
 
-[6] [苹果 Mac 使用 Clash 设置教程](Mac.md) 【推荐】
+```text
+┌──────────────────────────────────────────────┐
+│                 🚀 QUICK START               │
+├──────────────────────────────────────────────┤
+│                                              │
+│   ① 选择设备                                  │
+│          ↓                                   │
+│   ② 下载客户端                                │
+│          ↓                                   │
+│   ③ 获取订阅 / 节点                           │
+│          ↓                                   │
+│   ④ 导入配置                                  │
+│          ↓                                   │
+│   ⑤ 选择节点                                  │
+│          ↓                                   │
+│   ⑥ 开启代理                                  │
+│          ↓                                   │
+│   ⑦ 测试网络                                  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
-[7] [代理工具客户端软件备用下载地址](download.md)
+---
 
-## 3 苹果美区账号免费账号共享
+# 📱 平台教程
 
-[1] [APPLE ID 美区苹果账号  点击获取](appleid.md) 
+### 🖥 Windows
 
-[2] [如何注册美区APPLE ID的终极指南](apple_id.md)
+- ⭐ [Windows + Clash Verge](Windows.md)
+- ⭐ [Windows + V2rayN](V2rayN.md)
 
-## 4 声明
+### 🤖 Android
 
-以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
+- ⭐ [Android + Clash Mate](ClashMate.md)
+- ⭐ [Android + FlClash](FlClash.md)
 
-请勿用于非法用途，并对自己的任何行爲进行负责。
+### 🍎 iPhone / iPad
 
-####[<< 返回首页](https://iosrjk.github.io/xhj/) 
+- ⭐ [iOS + Shadowsocks / Shadowrocket](ios.md)
+
+### 💻 macOS
+
+- ⭐ [macOS + Clash Verge](Mac.md)
+
+---
+
+# 🔐 节点与订阅
+
+| 资源 | 说明 |
+| :--- | :--- |
+| 🔵 [SS / SSR 订阅服务](ss.md) | 节点服务与订阅参考 |
+| 🧩 [订阅配置教程](ssr.md) | 如何复制、导入订阅 |
+| 📦 [客户端备用下载](download.md) | 客户端与备用下载入口 |
+
+> [!WARNING]
+> 请保护好自己的订阅链接，不要将包含个人信息或专属订阅 Token 的链接公开发布。
+
+---
+
+# 🍎 Apple 服务
+
+| 项目 | 说明 |
+| :--- | :--- |
+| 🇺🇸 [美区 Apple ID 免费账号](appleid.md) | 共享账号使用说明 |
+| 📝 [美区 Apple ID 注册教程](apple_id.md) | 从注册到 App Store 登录的完整教程 |
+
+> [!IMPORTANT]
+> 使用共享 Apple ID 时，仅用于 App Store / 媒体与购买项目登录。**不要在 iCloud 中登录他人的共享账号。**
+
+---
+
+# 🧰 教程索引
+
+<details>
+<summary><b>展开全部教程</b></summary>
+
+<br>
+
+| 文件 | 教程 |
+| :--- | :--- |
+| `Windows.md` | 🖥 Windows Clash Verge |
+| `V2rayN.md` | 🖥 Windows V2rayN |
+| `FlClash.md` | 🤖 Android FlClash |
+| `ClashMate.md` | 🤖 Android Clash Mate |
+| `ios.md` | 🍎 iOS Shadowrocket |
+| `Mac.md` | 💻 macOS Clash Verge |
+| `ss.md` | 🔐 SS / SSR 节点 |
+| `ssr.md` | 🔗 订阅配置 |
+| `appleid.md` | 🇺🇸 美区 Apple ID 共享账号 |
+| `apple_id.md` | 📝 美区 Apple ID 注册 |
+
+</details>
+
+---
+
+# ❓ 常见问题
+
+<details>
+<summary><b>🔴 导入订阅后没有节点怎么办？</b></summary>
+
+<br>
+
+请检查：
+
+1. 订阅链接是否复制完整
+2. 订阅是否已经过期
+3. 当前套餐是否有效
+4. 尝试更新订阅
+5. 尝试更换客户端
+
+</details>
+
+<details>
+<summary><b>🟡 节点显示但无法连接怎么办？</b></summary>
+
+<br>
+
+可以依次尝试：
+
+1. 更换节点
+2. 测试节点延迟
+3. 检查代理模式
+4. 更新订阅
+5. 重启客户端
+
+</details>
+
+<details>
+<summary><b>🔵 Apple App Store 登录应该注意什么？</b></summary>
+
+<br>
+
+如果使用共享账号：
+
+- 只在 App Store / 媒体与购买项目中登录
+- 不要登录 iCloud
+- 不要修改账号安全信息
+- 下载完成后可以退出共享账号
+
+详细步骤请查看 [Apple ID 共享账号教程](appleid.md)。
+
+</details>
+
+---
+
+# ⚠️ 使用声明
+
+本项目主要用于**软件使用说明、配置学习与技术交流**。
+
+请使用者遵守所在地以及相关服务所在地的法律法规，并对自己的使用行为负责。
+
+本项目不鼓励、支持或协助任何违法行为。
+
+---
+
+## ⭐ 支持项目
+
+如果这个项目对你有帮助，欢迎点一个 Star ⭐
+
+<div align="center">
+
+<a href="https://github.com/iosrjk/xhj">
+  <img src="https://img.shields.io/github/stars/iosrjk/xhj?style=for-the-badge&logo=github&label=Star%20this%20repository" alt="Star this repository">
+</a>
+
+<br><br>
+
+**Made with ❤️ by [iosrjk](https://github.com/iosrjk/xhj)**
+
+</div>

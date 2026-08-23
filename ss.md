@@ -1,32 +1,36 @@
-# SS/ShadowsocksR 订阅服务
+# 🔐 SS / ShadowsocksR 订阅服务
 
-1、 <a class="btn btn-danger" href="https://xn--4gq62f52gdss.ink/#/register?code=xctXGX5U">1元机场，主打便宜能用~【AD】</a>   
+> 节点与订阅参考页面。
 
-2、 <a class="btn btn-danger" href="https://hniko.top/#/register?code=2JauAyDL">Hneko云，量大管饱~【AD】</a>  
- 
-3、 <a class="btn btn-danger" href="https://xinamd.cc/#/register?code=vuYIeGLM">xinAMD，免费试用【AD】</a>  
- 
-4、 <a class="btn btn-danger" href="https://7m9gi9norz.1095813.xyz/index.php#/register?code=klLZZ7gd">skylumo，免费试用，69元99999G！不限时，用完即止【AD】</a>  
+---
 
+## 📋 服务列表
 
+| 服务 | 特点 | 入口 |
+| :--- | :--- | :--- |
+| 🟢 1元机场 | 主打低价测试 | [立即访问](https://xn--4gq62f52gdss.ink/#/register?code=xctXGX5U) |
+| 🔵 Hneko 云 | 量大套餐 | [立即访问](https://hniko.top/#/register?code=vodPksh4) |
+| 🟣 狗狗加速 | 海外团队 | [立即访问](https://www.claudeborder.com/#/register?code=VWyB4waK) |
+| 🟤 Ai云边 | 提供试用 | [立即访问](https://www.claudeborder.com/#/register?code=VWyB4waK) |
+| 🟠 skylumo | 量大套餐 | [立即访问](https://skylumo.com/index.php#/register?code=klLZZ7gd) |
 
+> [!NOTE]
+> 以上链接属于推广 / 推荐入口。套餐价格、流量、可用性和服务条款可能随时变化，请以服务商当前页面为准。
 
-##以上均为自用推广，有需要可以订阅，建议先订阅便宜的套餐测试效果再决定是否使用。
+---
 
+## 💡 使用建议
 
+如果你准备购买订阅：
 
-1元机场订阅参考
+1. 先注册账号查看服务商套餐
+2. 优先选择低价套餐进行测试
+3. 确认自己的设备和客户端兼容
+4. 避免机场跑路请尽量购买月付套餐
+5. 新机场或第一次用 → 月付试水;用满一个月体验稳定、机场运营2年以上 → 转季付或年付吃折扣。年付省的是钱，月付买的是随时止损的自由，按信任度分配即可。
 
-![](https://i.imgs.ovh/2025/10/29/7K3456.png)
+---
 
-Hneko云订阅参考
+## 🔙 返回
 
-![](https://i.imgs.ovh/2025/10/29/7K3EdO.png)
-
-xinAMD订阅参考
-
-![](https://i.imgs.ovh/2025/10/29/7K3l0d.png)
-
-skylumo订阅参考
-
-![](https://i.imgs.ovh/2025/10/29/7K3tzg.png)
+[⬅️ 返回项目首页](README.md)
